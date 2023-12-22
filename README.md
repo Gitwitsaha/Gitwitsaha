@@ -2,7 +2,7 @@
 - 👀 I’m interested in App and web development
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate with research labs.
-- 📫 Just drop an email at dkpadmanabh05@gmail.com
+- 📫 Just drop an email at padmanabh05saha@gmail.com
 
 <!---
 Gitwitsaha/Gitwitsaha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
